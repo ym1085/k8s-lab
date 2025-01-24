@@ -1,2 +1,5 @@
 # k8s-lab
-A repository for testing out k8s
+
+## Overview
+
+이 프로젝트는 `k8s`를 테스트하기 위한 목적의 리포지토리입니다.
